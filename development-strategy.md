@@ -22,6 +22,8 @@
 - Write initial, basic README
 - Turn on GitHub Pages
 - Clone repo to my computer
+- Write development-strategy
+- Push changes
 
 ---
 
@@ -31,16 +33,27 @@
 
 ### Branches
 
-1. This user story was developed on a `master` brach
+- This user story was developed on a `master` brach
+- Create index.html file
+- Write code with VS
+- Push changes to GitHub using a terminal
+- Create Project board
 
 ### HTML
 
--
-- Pleasant `footer`
+- Header
+- Showcase
+- Features
+- Info section
+- Company
+- Pleasant footer
 
 ### CSS
 
-- Styling the elements:
+- Create CSS folder
+- Add style.css and styling the elements
+- Add flexboxgrid.css
+- Add font-awesome.css
 
 ---
 
