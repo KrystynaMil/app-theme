@@ -57,22 +57,15 @@
 
 ---
 
-## 2. About page
+## 2. Fonts and Images 
 
 [____]()
 
 ### Branches
 
-1. This user story was developed on a brach called ``
-1. It was merged to `master` when the feature was finished.
+- This user story was developed on a brach called `folders`
+-  It was merged to `master` when the feature was finished.
 
-### HTML
-
-- Pleasant `footer`
-
-### CSS
-
-- Styling the elements:
 
 ## Finishing Touches
 
