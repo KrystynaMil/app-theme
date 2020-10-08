@@ -1,10 +1,9 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- This is a  project for a beginner with CSS Flexbox Layout
+- CSS Flexbox is a way to create layouts using HTML and CSS efficiently.
 
 ## Wireframe
 
@@ -14,40 +13,55 @@ write a short description of your project:
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+- [initial repository](https://github.com/KrystynaMil/app-theme)
+- [live demo](https://krystynamil.github.io/app-theme/)
 
 ### Repo
 
 - Generate from Template
 - Write initial, basic README
 - Turn on GitHub Pages
+- Clone repo to my computer
 
-## 1. __
+---
 
-__full user story description__
+## 1. Home Page
 
-### Repo
+[____]()
 
-what branch(es) did you work on?
+### Branches
+
+1. This user story was developed on a `master` brach
 
 ### HTML
 
-what did you change in the HTML and why?
+-
+- Pleasant `footer`
 
 ### CSS
 
-what did you change in the CSS and why?
+- Styling the elements:
 
-## 2. ...
+---
 
-...
+## 2. About page
 
-...
+[____]()
+
+### Branches
+
+1. This user story was developed on a brach called ``
+1. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Pleasant `footer`
+
+### CSS
+
+- Styling the elements:
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Write final, complete README
 - Validate code to check for any last mistakes
