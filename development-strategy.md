@@ -71,7 +71,7 @@
 
 ## 3. About Page
 
-[__AppTheme | About__](https://krystynamil.github.io/app-theme)
+[__AppTheme | About__](https://krystynamil.github.io/app-theme/about.html)
 
 ### Branches
 
