@@ -57,7 +57,7 @@
 
 ---
 
-## 2. Fonts and Images 
+## 2. Fonts and Images
 
 [__Folders__](https://github.com/KrystynaMil/app-theme/tree/folders)
 
@@ -79,7 +79,7 @@
 - Create about.html file
 - Write code with VS
 - Push changes to GitHub using a terminal
-- Project board issue 
+- Project board issue
 
 ### HTML
 
@@ -91,7 +91,7 @@
 
 ### CSS
 
- - Styling the elements
+- Styling the elements
 
 ## Finishing Touches
 
