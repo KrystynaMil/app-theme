@@ -29,7 +29,7 @@
 
 ## 1. Home Page
 
-[____]()
+[__AppTheme__](https://krystynamil.github.io/app-theme/)
 
 ### Branches
 
@@ -59,13 +59,39 @@
 
 ## 2. Fonts and Images 
 
-[____]()
+[__Folders__](https://github.com/KrystynaMil/app-theme/tree/folders)
 
 ### Branches
 
 - This user story was developed on a brach called `folders`
--  It was merged to `master` when the feature was finished.
+- Created images and fonts folders
+- It was merged to `master` when the feature was finished
 
+---
+
+## 3. About Page
+
+[__AppTheme | About__](https://krystynamil.github.io/app-theme)
+
+### Branches
+
+- This user story was developed on a brach called `about`
+- Create about.html file
+- Write code with VS
+- Push changes to GitHub using a terminal
+- Project board issue 
+
+### HTML
+
+- Header
+- Subheader
+- Main page
+- Company
+- Pleasant footer
+
+### CSS
+
+ - Styling the elements
 
 ## Finishing Touches
 
