@@ -11,7 +11,7 @@
 <!-- wireframe.cc is a good site for getting started with wireframes -->
 ![wireframe]()
 
-## 0. Set-Up
+## 0 Set-Up
 
 - [initial repository](https://github.com/KrystynaMil/app-theme)
 - [live demo](https://krystynamil.github.io/app-theme/)
@@ -27,7 +27,7 @@
 
 ---
 
-## 1. Home Page
+## 1 Home Page
 
 [__AppTheme__](https://krystynamil.github.io/app-theme/)
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 2. Fonts and Images
+## 2 Fonts and Images
 
 [__Folders__](https://github.com/KrystynaMil/app-theme/tree/folders)
 
@@ -69,9 +69,9 @@
 
 ---
 
-## 3. About Page
+## 3 About Page
 
-[__AppTheme | About__](https://krystynamil.github.io/app-theme/about.html)
+[__AppTheme | About__](https://krystynamil.github.io/app-theme/about.htmlg)
 
 ### Branches
 
@@ -80,6 +80,7 @@
 - Write code with VS
 - Push changes to GitHub using a terminal
 - Project board issue
+- It was merged to `master` when the feature was finished
 
 ### HTML
 
@@ -93,7 +94,62 @@
 
 - Styling the elements
 
+---
+
+## 4 Services Page
+
+[__AppTheme | Contact__](https://krystynamil.github.io/app-theme/contact.html)
+
+### Branches
+
+- This user story was developed on a branch called `contact` 
+- Create contact.html 
+- Write code with VS
+- Push changes to GitHub
+- Project board issue
+- It was merged to `master` when the feature was finished
+
+### HTML
+
+- Header
+- Subheader
+- Maine page
+- Company
+- Pleasant footer
+
+### CSS
+
+- Styling the elements
+
+---
+## 4 Services Page
+
+[__AppTheme | Services__](https://krystynamil.github.io/app-theme/services.html)
+
+### Branches
+
+- This user story was developed on a branch called `services` 
+- Create services.html file
+- Write code with VS
+- Push changes to GitHub
+
+
+### HTML
+
+- Header
+- Subheader
+- Maine page
+- Company
+- Pleasant footer
+
+### CSS
+
+- Styling last elements 
+
+---
+
 ## Finishing Touches
 
+- Finish style.css and push it to master branch
 - Write final, complete README
 - Validate code to check for any last mistakes
