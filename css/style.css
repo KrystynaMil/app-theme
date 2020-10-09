@@ -1,6 +1,223 @@
+body{
+  font-family:'Open-sans', sans-serif;
+  font-size:17px;
+  line-height:1.5em;
+  background:rgba(212, 207, 219, 0.671) ;
+  margin:0;
+  padding:0;
+}
+
 img{
-    width: 100%;
-   }
+  width:100%;
+}
+
 .container{
-    margin: auto;
+  margin:auto;
+}
+
+/* COMMON CLASSES */
+.primary-text{
+  color:#f1519c;
+}
+
+.primary-background{
+  background: #f1519c;
+}
+
+/* HEADER */
+#main-header{
+  border-bottom:1px solid #f1519c;
+}
+
+/* NAVBAR */
+#navbar{
+  text-transform:uppercase;
+}
+
+#navbar li{
+  display:inline;
+  padding-right:20px;
+  list-style:none;
+}
+
+#navbar a{
+  text-decoration:none;
+  color:rgba(83, 85, 92, 0.671);
+}
+
+#navbar li.current a, #navbar a:hover{
+  color: #3883f5;
+  border-bottom: 3px solid #f1519c;
+  padding-bottom:3px;
+}
+
+/* SHOWCASE */
+#showcase{
+  background:url('../images/showcase.jpg') no-repeat center center;
+  border-bottom:1px solid #f1519c;
+  margin-bottom:30px;
+}
+
+#showcase .row{
+  height:600px;
+}
+
+#showcase h1{
+  font-size:50px;
+  margin:0;
+  padding-bottom:20px;
+}
+
+#showcase p{
+  color:rgba(83, 85, 92, 0.671);
+  margin:0;
+}
+
+#showcase .showcase-content{
+  background:rgba(212, 207, 219, 0.671);
+  color:#3883f5;
+  border-radius:90px;
+  padding:40px;
+  opacity:0.9;
+}
+
+/* FEATURES */
+#features h2{
+  font-size:35px;
+  margin:0;
+  padding-bottom:10px;
+}
+
+#features p{
+  color: rgba(83, 85, 92, 0.671);
+  margin:0;
+  margin-bottom:40px;
+}
+
+#features .fa{
+  font-size:60px;
+  color: #3883f5;
+}
+
+/* INFO */
+#info{
+  background:rgb(134, 129, 129) url('../images/info-bg.jpg') no-repeat;
+  color:rgba(28, 27, 31, 0.671);
+}
+
+#info h2{
+  font-size:35px;
+  margin:0;
+  padding-bottom:10px;
+}
+
+#info ul{
+  list-style:none;
+  padding:0;
+}
+
+#info li{
+  line-height:2em;
+  font-size:20px;
+}
+
+/* COMPANY */
+#company{
+  background: rgba(212, 207, 219, 0.671);
+  color:rgba(83, 85, 92, 0.671);
+  padding:10px 0;
+}
+
+#company h4{
+  text-transform:uppercase;
+  margin-bottom:0;
+}
+
+#company ul{
+  padding:0;
+  list-style:none;
+  line-height:2em;
+}
+
+#company input[type="text"]{
+  padding:7px;
+  background: rgba(212, 207, 219, 0.671);
+}
+
+#company button{
+  background: #3883f5;
+  color:rgba(28, 27, 31, 0.671);
+  padding:10px;
+  border:0;
+}
+
+/* FOOTER */
+#main-footer{
+  background: #f1519c;
+  color: rgba(28, 27, 31, 0.671);
+}
+
+/* PAGE */
+#page{
+  margin-bottom:40px;
+}
+
+/* SERVICES */
+.services ul li{
+  list-style:none;
+  padding:10px;
+}
+
+.services ul li:nth-child(odd){
+  background: rgba(212, 207, 219, 0.671);
+  color: rgba(28, 27, 31, 0.671);
+}
+
+.services ul li:nth-child(even){
+  color: rgba(28, 27, 31, 0.671 );
+}
+
+/* CONTACT */
+.contact form{
+  background: rgba(83, 85, 92, 0.671);
+  color:  rgba(212, 207, 219, 0.671);
+  padding:20px;
+}
+
+.contact form input[type="text"]{
+  width:50%;
+  height:30px;
+  margin-bottom:10px;
+  background: rgba(212, 207, 219, 0.671);
+}
+
+.contact form textarea{
+  width:50%;
+  height:100px;
+  background:rgba(212, 207, 219, 0.671) ;
+}
+
+.contact form button{
+  width:50%;
+  padding:10px 0;
+  border:0;
+  background:#3883f5;
+  color: rgba(28, 27, 31, 0.671);
+}
+
+.contact form label{
+  text-transform:uppercase;
+}
+
+/* MEDIA QUERIES */
+@media(max-width:800px){
+  #showcase h1{
+    font-size:30px;
+  }
+}
+
+@media(max-width:500px){
+  #showcase .showcase-content{
+    padding:40px 10px;
+  }
 }
