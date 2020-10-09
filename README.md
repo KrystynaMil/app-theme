@@ -12,9 +12,13 @@
 
 ## General info
 
+- This is a  project with CSS Flexbox Layout
+
+- CSS Flexbox is a way to create layouts using HTML and CSS efficiently.
+
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./images/Screenshot.png)
 
 ## Technologies
 
@@ -22,8 +26,7 @@ Project is created with:
 
 * HTML
 * CSS
-
-*
+* Flexbox
 
 ## Setup
 
@@ -31,7 +34,7 @@ Project is created with:
 
 ## Status
 
-Project is: on construction
+Project is: finished
 
 ## Contributing
 
