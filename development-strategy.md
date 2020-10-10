@@ -113,7 +113,7 @@
 
 - Header
 - Subheader
-- Maine page
+- Main page
 - Company
 - Pleasant footer
 
